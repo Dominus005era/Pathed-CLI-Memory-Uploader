@@ -1,0 +1,23 @@
+{
+  "entries": {
+    "notes/sample_note.md": {
+      "created_at": "2026-09-04T06:39:04.561829+00:00",
+      "path": "notes/sample_note.md",
+      "sha256": "3bd734c92a84836625292bbafcefaf801eab55079d588a22710a265280c80a4e",
+      "size_bytes": 769,
+      "title": "Binary Search Trees (BST) 🌳",
+      "updated_at": "2026-09-04T06:39:04.561829+00:00"
+    },
+    "notes/system_design_caching.md": {
+      "created_at": "2026-09-04T06:39:04.563049+00:00",
+      "path": "notes/system_design_caching.md",
+      "sha256": "219d50a785ee8523d73694e36ce7981114dc680bf1e009746d1e45dd7c7da435",
+      "size_bytes": 907,
+      "title": "Distributed Caching Architecture ⚙️",
+      "updated_at": "2026-09-04T06:39:04.563049+00:00"
+    }
+  },
+  "total_notes": 2,
+  "updated_at": "2026-09-04T06:39:16.490410+00:00",
+  "version": "1.0.0"
+}
